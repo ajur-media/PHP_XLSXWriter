@@ -98,3 +98,6 @@ Basic cell styles have been available since version 0.30
 | valign       | bottom, center, distributed |
 
 
+# Also useful packages
+
+https://github.com/evosoftcz/PHP_XLSXWriter ( evosoftcz/php_xlsxwriter )
