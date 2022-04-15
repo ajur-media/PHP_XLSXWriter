@@ -2,7 +2,7 @@
     "name": "ajur-media/php_xlsxwriter",
     "description": "PHP Library to write XLSX files (AJUR Media fork)",
     "keywords": ["php", "library","xls", "xlsx", "excel"],
-    "type": "project",
+    "type": "library",
     "homepage": "https://github.com/mk-j/PHP_XLSXWriter",
     "license": "MIT",
 
